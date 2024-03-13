@@ -1,0 +1,5 @@
+name: AutoElytra
+version: '${project.version}'
+main: es.outlook.adriansrj.atly.AutoElytra
+
+api-version: 1.20
